@@ -2,9 +2,9 @@
   font-family: helvetica;
 }
 
-body
+div
 {
-  background-image: : url("../images/the-flatiron-building-png") repeat;
+background-image: url('../images/the-flatiron-building.jpg');
 }
 
 .font18{
