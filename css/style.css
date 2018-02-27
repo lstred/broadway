@@ -1,0 +1,16 @@
+*{
+  font-family: helvetica;
+}
+
+body
+{
+  background-image: : url("../images/the-flatiron-building-png") repeat;
+}
+
+.font18{
+  font-size: 18px;
+}
+
+.white{
+  color: white;
+}
