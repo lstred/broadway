@@ -1,8 +1,9 @@
 *{
   font-family: helvetica;
+  text-align: center;
 }
 
-div
+#imgg
 {
 background-image: url('../images/the-flatiron-building.jpg');
 }
@@ -13,4 +14,37 @@ background-image: url('../images/the-flatiron-building.jpg');
 
 .white{
   color: white;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.font70{
+  font-size: 70px;
+}
+
+.font32{
+  font-size: 32px;
+}
+
+.font23{
+  font-size: 23px;
+}
+
+.font14{
+  font-size: 14px;
+}
+
+.font11{
+  font-size: 11px;
+}
+
+h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+h4{
+  font-size: 14px;
 }
