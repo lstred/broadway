@@ -1,6 +1,5 @@
 *{
   font-family: helvetica;
-  text-align: center;
 }
 
 #imgg
@@ -38,6 +37,14 @@ background-image: url('../images/the-flatiron-building.jpg');
 
 .font11{
   font-size: 11px;
+}
+
+.backdimgray{
+  background-color: dimgray;
+}
+
+textleft{
+  text-align: left;
 }
 
 h3{
