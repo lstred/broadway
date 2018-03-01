@@ -5,6 +5,9 @@
 #imgg
 {
 background-image: url('../images/the-flatiron-building.jpg');
+background-attachment: fix;
+background-position: center top;
+background-size: cover;
 }
 
 .font18{
